@@ -3,6 +3,27 @@
  * Config css path in neticrm.tw here:
  * https://ocf.neticrm.tw/civicrm/admin/setting/url?reset=1
  */
+
+/* style of neticrm header and footer*/
+
+#header{
+  background: url(http://ocf.tw/images/header.png) repeat 0 0 !important;
+  border-bottom: 1px solid #000303 !important; 
+}
+
+#logo img {
+  max-height: 40px !important;
+}
+
+.neticrm-footer{
+  background: url(http://ocf.tw/images/footer.png) repeat 0 0 !important;
+  border-top: 1px solid #000303 !important;
+  color: #FFF !important;
+}
+
+
+
+/*style of neticrm process bar*/
 .meter {
   height: 30px;  /* Can be anything */
   position: relative;
