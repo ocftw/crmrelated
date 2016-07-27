@@ -21,6 +21,10 @@
   color: #FFF !important;
 }
 
+.frontend #content-header{
+  background: linear-gradient(to left, #579fc4 , #404c77 ) !important;
+}
+
 
 
 /*style of neticrm process bar*/
